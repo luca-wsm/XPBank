@@ -1,0 +1,4 @@
+Level einzahlen geht nur bis 119 Level. Da der "All"-InPay auf maximal 25 Level begrenzt ist ( Daily Limit ) und ab diesem Level 20 Level ( Nach Abzug der Steuer ) nicht mehr für ein LevelUp ausreichen.
+
+Könnte ohne Probleme behoben werden, allerdings wollte ich dem Konzept folgen und habe dies so gelassen. Falls dies in der Zukunft geändert werden soll: XpBankCommand Zeile 35 entfernen.
+Allerdings würde das tägliche Limit von 25 Level kein Sinn mehr dann machen, dieses müsste angehoben werden.

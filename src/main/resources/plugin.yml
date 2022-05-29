@@ -1,0 +1,10 @@
+name: XPBank
+version: '${project.version}'
+main: de.luca.xpbank.Main
+api-version: 1.18
+authors: [ Luca ]
+description: A simple xpbank plugin
+
+commands:
+  xpbank:
+  xpinfo:
